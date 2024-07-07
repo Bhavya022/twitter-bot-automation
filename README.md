@@ -1,5 +1,5 @@
 # twitter-bot-automation
-# Twitter Bot Automation
+
 
 This project aims to automate interactions on Twitter, such as liking tweets, retweeting, and replying to tweets. It uses Node.js, Express, MongoDB, and the Twitter API to perform these actions through predefined tasks.
 
